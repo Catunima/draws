@@ -12,7 +12,9 @@
       /* Only change code above this line */
     }
   }
-
+h1{
+  font-family: monospace;
+}
   .penguin {
     position: relative;
     margin: auto;
